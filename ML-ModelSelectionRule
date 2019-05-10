@@ -1,0 +1,30 @@
+Predictor Type	 Response Type	           Algorithms Applicable(No Preference as such can be suggested among Algorithms)
+
+
+Numeric	         Numerical            Linear Regression, Regression Tree, Random Forest, Boosting, Neural Network, SVM - Regression, 
+                                                               K-NN-Regression
+
+
+Numeric	        Categorical	            Logistic Regression, Classification Tree, Random Forest, Boosting, Neural Network, 
+                                               K-NN, SVM-Classification, Discriminant Analysis, Gaussian Naïve Bayes
+
+
+Categorical	    Categorical	            Multinomial Naïve Bayes, Classification tree, Random Forest, Boosting, Neural Network, 
+                                                        SVM-Classification, Discriminant Analysis 
+
+
+Numeric & Cat   	Numeric	        Linear Regression, Regression Tree, Random Forest, Boosting, Neural Network, 
+                                                          SVM - Regression, K-NN-Regression
+
+
+Numeric & Cat	   Categorical	                  Logistic Regression, Classification Tree, Random Forest, Boosting, 
+                                            Neural Network, K-NN, SVM-Classification, Discriminant Analysis, Gaussian Naïve Bayes
+		
+    
+Note-
+Predictor variable means --independent variable/ like y=mx+c here mx+c is independent variable or it is called unlabelled variable 
+Response Variable means--- Dependent variable / as y is labelled variable 
+
+
+With Love
+Aviral Bhardwaj
