@@ -1,4 +1,4 @@
-Predictor Type	 Response Type	           Algorithms Applicable(No Preference as such can be suggested among Algorithms)
+Independent Typ  Dependent Type	           Algorithms Applicable(No Preference as such can be suggested among Algorithms)
 
 
 Numeric	         Numerical            Linear Regression, Regression Tree, Random Forest, Boosting, Neural Network, SVM - Regression, 
